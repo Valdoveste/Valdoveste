@@ -3,7 +3,7 @@
 - 🚀 My goals: Become an information security specialist and apply to [42SP](https://www.42sp.org.br/).
 - 🏫 I'm currently coursing: Technical education of IT in [Prof.ª Alcina Dantas Feijão](http://www.alcinadantas.com.br/ti).
 - 🌱 I’m currently learning: PHP.
-- 🔭 I’m currently working on: technical-school webpage project.
+- 🔭 I’m currently working on: technical-school [webpage project](https://github.com/RafaelSantos1234/-batatinha-s-hardware-project).
 - 📫 How to reach me: caio.valdoveste@scseduca.com.br.
 - 😄 Pronouns: focus, love self-improvement & logical exercises.
 - ⚡ Fun fact: I'm a :purple_heart: lover & digital :musical_keyboard: player. 
