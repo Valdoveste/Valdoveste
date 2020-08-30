@@ -9,11 +9,10 @@
 - ⚡ Fun fact: I'm a :purple_heart: lover & digital :musical_keyboard: player. 
 <h3 align="center">Familiar languages & IDE's<h3><hr>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <br>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+  <img title="JavaScript" alt="JavaScript image" src="https://img.icons8.com/color/48/000000/javascript.png" widht="35px" height="35px"/>
+  <img title="Java" alt="Java image" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" widht="35px" height="35px"/>
+  <img title="IntellijIDE" alt="JetBrains IDE image" src="https://img.icons8.com/color/48/000000/intellij-idea.png" widht="35px" height="35px"/>
+  <img title="Visual Studio Code" alt=" Visual Studio Code image" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" widht="35px" height="35px"/>
 </p>
 <h3 align="center">Social Medias<h3><hr>
 <p align="center">
