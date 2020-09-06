@@ -4,7 +4,7 @@
 - 🏫 I'm currently coursing: Technical education of IT in [Prof.ª Alcina Dantas Feijão](http://www.alcinadantas.com.br/ti).
 - 🌱 I’m currently learning: PHP.
 - 🔭 I’m currently working on: technical-school [webpage project](https://github.com/Batatinha-s-Hardware/batatinhas-hardware).
-- 📫 How to reach me: caio.valdoveste@scseduca.com.br.
+- 📫 How to reach me: caio.oliveira@scseduca.com.br.
 - 😄 Pronouns: focus, love self-improvement & logical exercises.
 - ⚡ Fun fact: I'm a :purple_heart: lover & digital :musical_keyboard: player. 
 <h3 align="center">Social Medias<h3><hr>
