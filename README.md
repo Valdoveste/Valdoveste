@@ -12,7 +12,7 @@
   <a align="left" title="Twitter" href="https://twitter.com/Valdoveste_">
     <img alt="Valdoveste twitter's link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a align="left" title="LinkedIn" href="https://twitter.com/Valdoveste_">
+  <a align="left" title="LinkedIn" href="https://www.linkedin.com/in/caio-valdoveste-de-oliveira/">
     <img alt="Valdoveste linkedIn's link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a align="left" title="Personal website" href="https://twitter.com/Valdoveste_">
