@@ -2,7 +2,7 @@
 <!-- 4527a0 -->
 - 🚀 My goals: Become an information security specialist and apply to [42SP](https://www.42sp.org.br/).
 - 🏫 I'm currently coursing: Technical education of IT in [Prof.ª Alcina Dantas Feijão](http://www.alcinadantas.com.br/ti).
-- 🌱 I’m currently learning: PHP.
+- 🌱 I’m currently learning: React.
 - 🔭 I’m currently working on: [3ux Tecnologia da Informação LTDA](https://3ux.com.br).
 - 📫 How to reach me: caio.oliveira@scseduca.com.br.
 - 😄 Pronouns: focus, love self-improvement & logical exercises.
