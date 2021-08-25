@@ -4,7 +4,7 @@
 - 🏫 I'm currently coursing: Orientação a Objetos com Java - Instituto Tecnológico de Aeronáutica by [coursera](https://www.coursera.org/learn/orientacao-a-objetos-com-java).
 - 🌱 I’m currently learning: React & Java.
 - 🔭 I’m currently working on: [3ux Tecnologia da Informação LTDA](https://3ux.com.br).
-- 📫 How to reach me: caio.valdoveste@outlook.com.br.
+- 📫 How to reach me: caio.valdoveste@outlook.com.br
 - 😄 Pronouns: focus, love self-improvement & logical exercises.
 - ⚡ Fun fact: I'm a :purple_heart: lover & digital :musical_keyboard: player. 
 <h3 align="center">Social Medias<h3><hr>
