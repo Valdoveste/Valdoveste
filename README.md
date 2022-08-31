@@ -4,8 +4,6 @@
 
 - 🔥 Junior FrontEND Developer
 
-- 🔭 I’m currently developing my skills, to work as developer in a company.
-
 - 💬 Ask me about **Music**
 
 - ⚡ Fun fact **Pianist beginner**
