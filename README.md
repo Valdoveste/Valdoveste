@@ -27,15 +27,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdoveste&layout=compact&theme=vision-friendly-dark" alt="valdoveste's most languages"/>
-</p>
-
-<br><br>
+<br>
 
 ## Contact
 
