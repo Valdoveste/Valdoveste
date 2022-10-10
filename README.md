@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Web development & Music**
 
-- ⚡ Fun fact **I play piano**
+- ⚡ Fun fact **I play piano, purple lover**
 
 - 👨‍💻 More at [valdoveste.com](https://valdoveste.com)
 
