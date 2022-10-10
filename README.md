@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Music**
 
-- ⚡ Fun fact **Pianist beginner**
+- ⚡ Fun fact **I play the piano**
 
 - 👨‍💻 More at [valdoveste.com](https://valdoveste.com)
 
