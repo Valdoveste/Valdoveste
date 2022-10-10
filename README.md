@@ -4,7 +4,7 @@
 
 - 🔥 Junior FrontEND Developer
 
-- 💬 Ask me about **Music**
+- 💬 Ask me about **Web development & Music**
 
 - ⚡ Fun fact **I play piano**
 
