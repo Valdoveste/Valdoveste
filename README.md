@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I play piano, purple lover**
 
-- 👨‍💻 More at [valdoveste.com](https://valdoveste.com)
+- 👨‍💻 More at [valdoveste.com.br]([https://valdoveste.com](https://valdoveste.com.br/))
 
 <br><br>
 
