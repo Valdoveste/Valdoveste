@@ -2,7 +2,7 @@
 <img align="right" height="390em" src="https://user-images.githubusercontent.com/62577482/187589493-8381e797-a20d-4e2f-8560-14fe0e180c4e.gif"/>
 <h1 align="left">Hi, I'm Valdoveste</h1>
 
-- 🔥 Junior FrontEND Developer
+- 🔥 Pleno FrontEND Developer
 
 - 💬 Ask me about **Web development & Music**
 
